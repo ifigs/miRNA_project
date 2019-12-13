@@ -8,13 +8,5 @@ The dataset consists of a large number of samples from https://portal.gdc.cancer
 ### Interpreting the Data
 
 
-```python
 The "miRNA_counts.csv" file contains the data described above. Each patient has a count associated with the expression of miRNA. Each column in the file except for the first represents a feature, "Reads per million miRNA mapped", and each row represents a patient/sample. The data is already normalized. There is also a data file containining clinical information labeled "clinical.csv" about each patient such as details about their cancer type, diagnosis, and tumor. Finally, there is a data dictionary labeled "data_dictionary.csv" which describes all the data in the clinical file. 
 
-```
-
-
-
-```python
-
-```
