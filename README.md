@@ -1,4 +1,4 @@
-# miRNA_project
+# Classifying Cancer Using microRNA Data
 
 Introduction:
 
